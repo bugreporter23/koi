@@ -1,0 +1,15 @@
+{
+  "source": "https://images.linuxcontainers.org",
+  "release": "Debian 13 (trixie), cloud, amd64, 20261003_05:24",
+  "fingerprint": "b60b0730c1bcd67b03bac7112d35cd1ce3f4beb43ed99a20d68c0a0fd2d0faa4",
+  "artifacts": {
+    "incus.tar.xz": {
+      "url": "https://images.linuxcontainers.org/images/debian/trixie/amd64/cloud/20261003_05:24/incus.tar.xz",
+      "sha256": "51f5fc850c5744a0b89cc43a98cd01ef8d71dd45b94445b7040e7962914e51fb"
+    },
+    "disk.qcow2": {
+      "url": "https://images.linuxcontainers.org/images/debian/trixie/amd64/cloud/20261003_05:24/disk.qcow2",
+      "sha256": "a4889d51c9c7865f45d03c90e333ba5cf99044760217354966fbc77b9d4bf693"
+    }
+  }
+}
