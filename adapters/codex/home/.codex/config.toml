@@ -1,0 +1,18 @@
+model_provider = "koi"
+
+[model_providers.koi]
+name = "koi relay"
+base_url = "http://127.0.0.1:8400/codex"
+wire_api = "responses"
+requires_openai_auth = false
+supports_websockets = false
+
+[tui]
+alternate_screen = "never"
+vim_mode_default = true
+
+[tui.keymap.chat]
+edit_queued_message = "tab"
+
+[tui.keymap.composer]
+queue = []
